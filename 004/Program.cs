@@ -33,6 +33,11 @@ if(day == 7)
 {
     System.Console.WriteLine("Сегодня воскресение");
 }
+if(day <= 0)
+{
+    System.Console.WriteLine("Дружище, день недели не может быть равен 0 или меньше!");
+    goto link1;
+}
 if(day >= 8)
 {
     System.Console.WriteLine("Приятель, в неделе 7 дней. Поставь цифру поменьше!");
