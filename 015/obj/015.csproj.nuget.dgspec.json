@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\koshe\\OneDrive\\Desktop\\Seminar_C#\\018\\018.csproj": {}
+    "C:\\Users\\koshe\\OneDrive\\Desktop\\Seminar_C#\\015\\015.csproj": {}
   },
   "projects": {
-    "C:\\Users\\koshe\\OneDrive\\Desktop\\Seminar_C#\\018\\018.csproj": {
+    "C:\\Users\\koshe\\OneDrive\\Desktop\\Seminar_C#\\015\\015.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\koshe\\OneDrive\\Desktop\\Seminar_C#\\018\\018.csproj",
-        "projectName": "018",
-        "projectPath": "C:\\Users\\koshe\\OneDrive\\Desktop\\Seminar_C#\\018\\018.csproj",
+        "projectUniqueName": "C:\\Users\\koshe\\OneDrive\\Desktop\\Seminar_C#\\015\\015.csproj",
+        "projectName": "015",
+        "projectPath": "C:\\Users\\koshe\\OneDrive\\Desktop\\Seminar_C#\\015\\015.csproj",
         "packagesPath": "C:\\Users\\koshe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\koshe\\OneDrive\\Desktop\\Seminar_C#\\018\\obj\\",
+        "outputPath": "C:\\Users\\koshe\\OneDrive\\Desktop\\Seminar_C#\\015\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\koshe\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -7,9 +7,9 @@ C:\Users\koshe\OneDrive\Desktop\Seminar_C#\018\bin\Debug\net6.0\018.exe
 C:\Users\koshe\OneDrive\Desktop\Seminar_C#\018\bin\Debug\net6.0\018.deps.json
 C:\Users\koshe\OneDrive\Desktop\Seminar_C#\018\bin\Debug\net6.0\018.runtimeconfig.json
 C:\Users\koshe\OneDrive\Desktop\Seminar_C#\018\bin\Debug\net6.0\018.dll
-C:\Users\koshe\OneDrive\Desktop\Seminar_C#\018\bin\Debug\net6.0\ref\018.dll
 C:\Users\koshe\OneDrive\Desktop\Seminar_C#\018\bin\Debug\net6.0\018.pdb
 C:\Users\koshe\OneDrive\Desktop\Seminar_C#\018\obj\Debug\net6.0\018.dll
 C:\Users\koshe\OneDrive\Desktop\Seminar_C#\018\obj\Debug\net6.0\ref\018.dll
 C:\Users\koshe\OneDrive\Desktop\Seminar_C#\018\obj\Debug\net6.0\018.pdb
 C:\Users\koshe\OneDrive\Desktop\Seminar_C#\018\obj\Debug\net6.0\018.genruntimeconfig.cache
+C:\Users\koshe\OneDrive\Desktop\Seminar_C#\018\obj\Debug\net6.0\refint\018.dll
