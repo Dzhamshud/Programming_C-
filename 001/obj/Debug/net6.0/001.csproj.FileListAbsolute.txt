@@ -2,7 +2,6 @@ C:\Users\koshe\OneDrive\Desktop\Seminar_C#\001\bin\Debug\net6.0\001.exe
 C:\Users\koshe\OneDrive\Desktop\Seminar_C#\001\bin\Debug\net6.0\001.deps.json
 C:\Users\koshe\OneDrive\Desktop\Seminar_C#\001\bin\Debug\net6.0\001.runtimeconfig.json
 C:\Users\koshe\OneDrive\Desktop\Seminar_C#\001\bin\Debug\net6.0\001.dll
-C:\Users\koshe\OneDrive\Desktop\Seminar_C#\001\bin\Debug\net6.0\ref\001.dll
 C:\Users\koshe\OneDrive\Desktop\Seminar_C#\001\bin\Debug\net6.0\001.pdb
 C:\Users\koshe\OneDrive\Desktop\Seminar_C#\001\obj\Debug\net6.0\001.csproj.AssemblyReference.cache
 C:\Users\koshe\OneDrive\Desktop\Seminar_C#\001\obj\Debug\net6.0\001.GeneratedMSBuildEditorConfig.editorconfig
@@ -13,3 +12,4 @@ C:\Users\koshe\OneDrive\Desktop\Seminar_C#\001\obj\Debug\net6.0\001.dll
 C:\Users\koshe\OneDrive\Desktop\Seminar_C#\001\obj\Debug\net6.0\ref\001.dll
 C:\Users\koshe\OneDrive\Desktop\Seminar_C#\001\obj\Debug\net6.0\001.pdb
 C:\Users\koshe\OneDrive\Desktop\Seminar_C#\001\obj\Debug\net6.0\001.genruntimeconfig.cache
+C:\Users\koshe\OneDrive\Desktop\Seminar_C#\001\obj\Debug\net6.0\refint\001.dll

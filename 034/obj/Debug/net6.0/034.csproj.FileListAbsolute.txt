@@ -1,0 +1,15 @@
+C:\Users\koshe\OneDrive\Desktop\Seminar_C#\034\bin\Debug\net6.0\034.exe
+C:\Users\koshe\OneDrive\Desktop\Seminar_C#\034\bin\Debug\net6.0\034.deps.json
+C:\Users\koshe\OneDrive\Desktop\Seminar_C#\034\bin\Debug\net6.0\034.runtimeconfig.json
+C:\Users\koshe\OneDrive\Desktop\Seminar_C#\034\bin\Debug\net6.0\034.dll
+C:\Users\koshe\OneDrive\Desktop\Seminar_C#\034\bin\Debug\net6.0\034.pdb
+C:\Users\koshe\OneDrive\Desktop\Seminar_C#\034\obj\Debug\net6.0\034.csproj.AssemblyReference.cache
+C:\Users\koshe\OneDrive\Desktop\Seminar_C#\034\obj\Debug\net6.0\034.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koshe\OneDrive\Desktop\Seminar_C#\034\obj\Debug\net6.0\034.AssemblyInfoInputs.cache
+C:\Users\koshe\OneDrive\Desktop\Seminar_C#\034\obj\Debug\net6.0\034.AssemblyInfo.cs
+C:\Users\koshe\OneDrive\Desktop\Seminar_C#\034\obj\Debug\net6.0\034.csproj.CoreCompileInputs.cache
+C:\Users\koshe\OneDrive\Desktop\Seminar_C#\034\obj\Debug\net6.0\034.dll
+C:\Users\koshe\OneDrive\Desktop\Seminar_C#\034\obj\Debug\net6.0\refint\034.dll
+C:\Users\koshe\OneDrive\Desktop\Seminar_C#\034\obj\Debug\net6.0\034.pdb
+C:\Users\koshe\OneDrive\Desktop\Seminar_C#\034\obj\Debug\net6.0\034.genruntimeconfig.cache
+C:\Users\koshe\OneDrive\Desktop\Seminar_C#\034\obj\Debug\net6.0\ref\034.dll
