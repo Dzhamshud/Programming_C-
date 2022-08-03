@@ -10,4 +10,4 @@ int CountDigits(int N)
     return k;
 }
 
-System.Console.WriteLine(CountDigits(87));
+System.Console.WriteLine(CountDigits(135478));
