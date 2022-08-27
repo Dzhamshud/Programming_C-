@@ -43,9 +43,9 @@ using System;
     {
         sum1 = sum1 + a[i, i];
         sum2 = sum2 + a[i, a.GetLength(1) - 1 - i];
-    }$"{sum1} {sum2}"
+    }
 
-    System.Console.WriteLine();
+    System.Console.WriteLine($"{sum1} {sum2}");
 }
 
 

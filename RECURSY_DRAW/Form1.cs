@@ -1,6 +1,6 @@
 using System.Drawing;
 using System.Windows.Forms;
-namespace Recursy_Draw;
+namespace RECURSY_DRAW;
  
 public partial class Form1 : Form
 {
@@ -27,8 +27,8 @@ public partial class Form1 : Form
     {
  
         DrawCircle(g, x,y,r);
-        //System.Threading.Thread.Sleep(10);//пауза 100 msek
-        if (r>10)//минимальный радиус окружности
+        //System.Threading.Thread.Sleep(10);
+        if (r>50)
         {
             RecCircle(g,x-r/2,y,r/2);
             RecCircle(g,x+r/2,y,r/2);
